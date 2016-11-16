@@ -1,4 +1,4 @@
-#Guide Stick for the Visually Impaired
+##Guide stick for the visually impaired
 
 This project aims to be a tool for the visually impaired to gauge obstacles in the vicinity and provide appropriate feedback using Ultrasonic technology and vibration motors/voice aid. 
 
